@@ -45,4 +45,8 @@ public class Calculadora {
     string sms(string sms){
         return "*" + sms + "*";
     }
+    
+    double division1 (double a, double b){
+    return a/b + 2;
+    }
 }
